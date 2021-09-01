@@ -2,7 +2,6 @@
 This is a Python App that Runs a Quiz using Question Objects Created from a Question Class served into
 a run_test fucntion in order to prompt users with questions after which the responses are evaluated instantly
 and the results displayed to the user
-I really want to learn how to use this Git Thingy
 '''
 
 #import the Question Class from which Question Objects will be formed for the Quiz
